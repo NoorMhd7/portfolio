@@ -2,7 +2,7 @@
   "name": "noor",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://muhnoor.github.io/cleanfolio",
+  "homepage": "https://muhnoor.github.io",
   "dependencies": {
     "@material-ui/core": "^4.12.3",
     "@material-ui/icons": "^4.11.2",
