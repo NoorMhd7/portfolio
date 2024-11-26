@@ -8,8 +8,7 @@ const about = {
   // all the properties are optional - can be left empty or deleted
   name: 'Muhammad Noor',
   role: 'IT Developer/ CS student',
-  description:'I am a second-year BSc Computer Science student at the University of Leeds, where I am building a strong foundation in software development. Currently, I am interning as an IT Developer at NHS, where I am gaining hands-on experience in agile development and the software development life cycle. I am passionate about leveraging technology to solve real-world problems and am eager to contribute to innovative projects that enhance user experience and system functionality. I look forward to growing my skills in a dynamic and collaborative environment.',
-  resume: 'https://leeds365-my.sharepoint.com/:b:/r/personal/sc23man_leeds_ac_uk/Documents/Muhammad_Noor-CV.pdf?csf=1&web=1&e=kBoYBc',
+  description: 'I am a second-year BSc Computer Science student at the University of Leeds, where I am building a strong foundation in software development. Currently, I am interning as an IT Developer at NHS, where I am gaining hands-on experience in agile development and the software development life cycle. I am passionate about leveraging technology to solve real-world problems and am eager to contribute to innovative projects that enhance user experience and system functionality. I look forward to growing my skills in a dynamic and collaborative environment.',
   social: {
     linkedin: 'https://www.linkedin.com/in/muhammad-noor-177a23290/',
     github: 'https://github.com/Mhd-Noor',
@@ -83,5 +82,5 @@ const contact = {
   email: 'mhdn.cs@gmail.com',
 }
 
-export { header, about, projects, skills, contact } 
- // add hack here
+export { header, about, projects, skills, contact }
+// add hack here
